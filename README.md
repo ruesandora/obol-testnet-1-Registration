@@ -26,8 +26,8 @@ sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 
 ## Gerekli kurulumlar:
 ```
-chmod o+w charon-distributed-validator-node
 git clone https://github.com/ObolNetwork/charon-distributed-validator-node.git
+chmod o+w charon-distributed-validator-node
 cd charon-distributed-validator-node
 ```
 
