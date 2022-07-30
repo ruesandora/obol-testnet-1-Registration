@@ -36,7 +36,7 @@ docker run --rm -v "$(pwd):/opt/charon" ghcr.io/obolnetwork/charon:v0.8.1 create
 ```
 ![image](https://user-images.githubusercontent.com/101149671/181920572-7a59a358-9774-40dd-9317-9dd07419d878.png)
 
-## Form dolduralım: [form linki][https://obol.typeform.com/AthenaTestnet?typeform-source=blog.obol.tech)
+## Form dolduralım: [form linki](https://obol.typeform.com/AthenaTestnet?typeform-source=blog.obol.tech)
 
 * Obol discord: 
 
