@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/101149671/181920449-8aeb9c05-e068-415a-b42b-38f77f8d206c.png)
 
-<h1 align="center">Selamlar, Obol Network testnet başvurucaz, sistem gereksinimi yok, herhangi bir cüzdanda private key alabilirsiniz 2 dakikada. </h1>
+<h1 align="center">Selamlar, Obol Network testnet başvurucaz, sistem gereksinimi yok, herhangi bir sunucuda private key alabilirsiniz 2 dakikada. </h1>
 
 
 ## Sistem güncellemeleri:
