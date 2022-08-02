@@ -7,6 +7,18 @@
 <h1 align="center">Selamlar, Obol Network testnet başvurucaz, sistem gereksinimi yok, herhangi bir sunucuda private key alabilirsiniz 2 dakikada. </h1>
 
 
+<h1 align="center">Obol kurulu sunucunuzu sıfırlamadayısanız altta vereceğim komutu kullanarak private keyi alabilirsiniz. </h1>
+
+* Private keyi not edin ve kimseyle paylaşmayın.
+* ENR adresinizi [discord kanalı](discord.gg/ruescommunity) #obol-enr-adres odasına enr adresinizi gönderin.
+
+```
+nano ~/charon-distributed-validator-node/.charon/charon-enr-private-key
+```
+
+<h1 align="center">Obol kurulu sunucunuzu sıfırladıysanız altta vereceğim komutları kullanarak enr adresi ve private keyi alabilirsiniz. </h1>
+
+
 ## Sistem güncellemeleri:
 ```
 sudo apt update && sudo apt upgrade -y
@@ -37,15 +49,16 @@ docker run --rm -v "$(pwd):/opt/charon" ghcr.io/obolnetwork/charon:v0.8.1 create
 ```
 ![image](https://user-images.githubusercontent.com/101149671/181920572-7a59a358-9774-40dd-9317-9dd07419d878.png)
 
-## Form dolduralım: [form linki](https://obol.typeform.com/AthenaTestnet?typeform-source=blog.obol.tech)
 
-* Obol discord: 
+## Private key alma:
 
-* İlk başları okuyarak evetliyoruz:
+* Private keyi not edin ve kimseyle paylaşmayın.
+* ENR adresinizi [discord kanalı](discord.gg/ruescommunity) #obol-enr-adres odasına enr adresinizi gönderin.
 
-* Diğer cevaplar opsiyonel
+```
+nano ~/charon-distributed-validator-node/.charon/charon-enr-private-key
+```
 
-![image](https://user-images.githubusercontent.com/101149671/181920731-4eab1539-3abf-475a-b23d-5f73905a108e.png)
-
+## SORUN YAŞARSANIZ: https://t.me/ObolNetworkTurkish
 
 
